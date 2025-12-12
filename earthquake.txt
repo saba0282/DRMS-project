@@ -1,0 +1,20 @@
+
+muri                      30             10/08/25             dry food        all                 
+
+saline                    100            10/10/1026           medicine        all                 
+
+bandage                   1000           10/10/1026           medicine        all                 
+
+blanket                   200            10/10/1026           neutral         all                 
+
+cloth                     300            10/10/1026           neutral         all                 
+
+rice                      300            10/10/1026           dry food        all                 
+
+water                     4500           10/10/1026           all             all                 
+
+baby saline               2000           10/10/1026           medicine        all                 
+
+sugar                     300            10/10/1026           dry food        all                 
+
+blanket                   3000           12-02-2027           neutral         all                 

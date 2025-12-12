@@ -1,0 +1,24 @@
+
+muri                      30             10/08/25             dry             food                
+
+saline                    100            10/10/1026           medicine        all                 
+
+bandage                   1000           10/10/1026           medicine        all                 
+
+cloth                     300            10/10/1026           neutral         all                 
+
+burn cream                1000           10/10/1026           medicine        dire                
+
+rice                      300            10/10/1026           dry             food                
+
+water                     4500           10/10/1026           all             all                 
+
+baby saline               2000           10/10/1026           medicine        all                 
+
+sugar                     300            10/10/1026           dry             food                
+
+blanket                   2839           12-02-2027           neutral         all                 
+
+gamcha                    50             7/03/34              flood           flood               
+
+Gamcha                    100            N/A                  N/A             N/A                 
